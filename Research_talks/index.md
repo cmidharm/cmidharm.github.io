@@ -8,6 +8,6 @@ My CV can be found [here](CV.pdf).
 
 ## Academic Activities
 
-###Research Talks
+### Research Talks
 
 
