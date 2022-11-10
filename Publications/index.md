@@ -13,3 +13,13 @@ My CV can be found [here](CV.pdf).
     (joint work with [Manoj Kummini](https://www.cmi.ac.in/people/fac-profile.php?id=mkummini))
 
     Appeared in : Commun. in Algebra (Published online).
+
+- Submitted papers:
+
+1. The '''h'''-polynomial and the rook polynomial of some polyominoes
+
+    (joint work with [Manoj Kummini](https://www.cmi.ac.in/people/fac-profile.php?id=mkummini))
+
+2. Green-Lazarsfeld property '''N_p''' for Hibi rings
+
+3. Green-Lazarsfeld property '''N_p''' for Hibi rings
