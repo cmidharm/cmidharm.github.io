@@ -6,6 +6,8 @@ My CV can be found [here](../CV.pdf).
 
 ## Publications
 
+My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.org/a/veer_d_1.html)
+
 - Published/Accepted papers:
 
 1. [The Charney-Davis conjecture for simple thin polyominoes](https://www.tandfonline.com/doi/full/10.1080/00927872.2022.2140347).`
