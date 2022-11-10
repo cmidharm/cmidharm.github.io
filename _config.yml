@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 #theme: Dinky
 title: Dharm Veer
-description: [Presentations](Presentations)
+#description: [Presentations](Presentations)
 
 defaults:
   # _posts
