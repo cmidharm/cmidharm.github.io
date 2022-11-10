@@ -2,3 +2,16 @@ theme: jekyll-theme-minimal
 #theme: Dinky
 title: Dharm Veer
 description: Bookmark this to keep an eye on my project updates!
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
