@@ -4,6 +4,6 @@ My thesis advisor is professor [Manoj Kummini](https://www.cmi.ac.in/people/fac-
 
 My CV can be found [here](CV.pdf).
 
-## [Publications](Publications)
+## [Publications](../Publications)
 
 ## [Research Talks](Research_talks)
