@@ -8,7 +8,7 @@ My CV can be found [here](../CV.pdf).
 
 My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.org/a/veer_d_1.html)
 
-- Published/Accepted papers:
+### - Published/Accepted papers:
 
 1. [The Charney-Davis conjecture for simple thin polyominoes](https://www.tandfonline.com/doi/full/10.1080/00927872.2022.2140347).
 
@@ -16,7 +16,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     Appeared in : Commun. in Algebra (Published online).
 
-- Submitted papers:
+### - Submitted papers:
 
 1. The $h$-polynomial and the rook polynomial of some polyominoes.
 
