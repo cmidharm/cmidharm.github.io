@@ -26,3 +26,12 @@ Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), Gebze Tec
 $4^th$ BRICS Mathematics Conference, 
 IISER Tiruvananthapuram, Kerala. December 2021.
 
+On Green-Lazarsfeld property $N_p$ for Hibi rings, Research Seminar, CMI, Chennai. September,
+2021.
+
+On h-Polynomials of Hibi rings, online talk in webinar Series, [CATGT](https://sites.google.com/site/anuragshomepage/catgt). August 2020.
+
+On h-Polynomials of Hibi rings, Research Seminar, CMI, Chennai. September, 2019.
+
+Absolute Integral Closure In Positive Characteristic, Maths PhD Research Seminar, CMI,
+Chennai. March, 2017.
