@@ -2,4 +2,4 @@
 
 [My CV](CV.pdf)
 
-[Publications](Publications)
+[Publications](Publications\)
