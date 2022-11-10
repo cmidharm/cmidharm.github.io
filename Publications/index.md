@@ -22,4 +22,4 @@ My CV can be found [here](../CV.pdf).
 
 2. Green-Lazarsfeld property $N_p$ for Hibi rings
 
-3. Green-Lazarsfeld property $N_p$ for Hibi rings
+3. Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings
