@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 #theme: Dinky
 title: Dharm Veer
 #description: [Presentations](Presentations)
-
+image: dharm-webpage.jpeg
 defaults:
   # _posts
   - scope:
