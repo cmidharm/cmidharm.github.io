@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 ---
 
 I am currently a senior research fellow at the [Chennai Mathematical Insitute](https://www.cmi.ac.in), Chennai, India.
