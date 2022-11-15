@@ -30,8 +30,8 @@ minimal_mistakes_skin: air
 search: true
 
 author:
-  name   : Dharm Veer
-  avatar : dharm-webpage.jpeg
+  name   : "Dharm Veer"
+  avatar : "dharm-webpage.jpeg"
   #  bio    : "My awesome biography constrained to a sentence or two goes here."
 # Build settings
 markdown: kramdown
