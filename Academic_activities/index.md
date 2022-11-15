@@ -37,7 +37,7 @@ Chennai. March, 2017.
 - [EMS Summer School on Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), 
 Gebze Technical University, Istanbul, Turkey, August 2022.
 
--  [A Conference on Topics in Algebraic Geometry and Commutative Algebra](https://srmap.edu.in/conference-on-algebraic-geometry-and-commutative-algebra/#:~:text=July%2018%20%2D%2023%2C%202022%2C,AP%2C%20Andhra%20Pradesh%2C%20India.), 
+- [A Conference on Topics in Algebraic Geometry and Commutative Algebra](https://srmap.edu.in/conference-on-algebraic-geometry-and-commutative-algebra/#:~:text=July%2018%20%2D%2023%2C%202022%2C,AP%2C%20Andhra%20Pradesh%2C%20India.), 
 SRM University-AP, Andhra Pradesh, India. July, 2022.
 
 - [NCM Workshp on maximal Cohen-Macaulay Modules](https://www.atmschools.org/school/2022/NCMW/mcmm/application-form), Chennai Mathematical Institute,
