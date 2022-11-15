@@ -5,6 +5,6 @@ I received my master's degree (MSc in Mathematics) from [Chennai Mathematical In
 
 My CV can be found [here](CV.pdf).
 
-## [Publications](Publications)
+<>(## [Publications](Publications))
 
-## [Academic Activities](Academic_activities)
+<>(## [Academic Activities](Academic_activities))
