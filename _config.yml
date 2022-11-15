@@ -32,6 +32,10 @@ minimal_mistakes_skin: air
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+author:
+  name   : Dharm Veer
+  avatar : "dharm-webpage.jpeg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
 # Outputting
 #permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
@@ -62,10 +66,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : Dharm Veer
-  avatar : "dharm-webpage.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
   #  links:
   #   - label: "Website"
   #    icon: "fas fa-fw fa-link"
