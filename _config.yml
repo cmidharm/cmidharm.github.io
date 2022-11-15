@@ -53,10 +53,6 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-author:
-  name   : Dharm Veer
-  avatar : "dharm-webpage.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -66,6 +62,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+author:
+  name   : Dharm Veer
+  avatar : "dharm-webpage.jpeg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   #  links:
   #   - label: "Website"
   #    icon: "fas fa-fw fa-link"
