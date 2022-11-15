@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 #theme: Dinky
 title: Dharm Veer
 #description: [Presentations](Presentations)
