@@ -27,7 +27,7 @@ email: dharm@cmi.ac.in
   #twitter_username: username
   #github_username: username
 minimal_mistakes_skin: air
-#search: true
+search: true
 
 # Build settings
 markdown: kramdown
