@@ -26,4 +26,4 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 3. Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings.
 
-## [Research Talks](../Research_talks)
+## [Academic Activities](../Academic_activities)
