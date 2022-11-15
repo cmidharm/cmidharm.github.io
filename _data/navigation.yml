@@ -1,7 +1,7 @@
 main:
   - title: "Research"
-    url: Publications
+    url: _pages/publications
   - title: "Academic Activities"
-    url: Academic_activities
+    url: _pages/academic_activities
   - title: "Contact"
     url: _pages/contact  
