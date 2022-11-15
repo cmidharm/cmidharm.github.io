@@ -25,7 +25,7 @@ minimal_mistakes_skin: air
 #search: true
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 author:
   name   : Dharm Veer
