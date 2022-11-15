@@ -53,7 +53,7 @@ include:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
-`plugins:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
