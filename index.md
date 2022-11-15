@@ -1,5 +1,4 @@
 ---
-title: 'Dharm Veer'
 layout: single
 ---
 
