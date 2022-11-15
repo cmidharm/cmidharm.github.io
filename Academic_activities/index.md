@@ -19,7 +19,7 @@ Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), Gebze Tec
  IIT Madras, Chennai. December 2021.
 
 - [On Green-Lazarsfeld property $N_p$ for Hibi rings](https://www.youtube.com/watch?v=iiOLPnHLpkM), 
-- $4^th$ BRICS Mathematics Conference, 
+ $4^th$ BRICS Mathematics Conference, 
 IISER Tiruvananthapuram, Kerala. December 2021.
 
 - On Green-Lazarsfeld property $N_p$ for Hibi rings, Research Seminar, CMI, Chennai. September,
