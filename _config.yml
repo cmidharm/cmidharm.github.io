@@ -88,7 +88,6 @@ plugins:
       #url: "https://instagram.com/"
 
 defaults:
-defaults:
   # _posts
   - scope:
       path: ""
