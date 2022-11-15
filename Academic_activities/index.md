@@ -36,7 +36,8 @@ SRM University-AP, Andhra Pradesh, India. July, 2022.
 
 - [NCM Workshp on maximal Cohen-Macaulay Modules](https://www.atmschools.org/school/2022/NCMW/mcmm/application-form), Chennai Mathematical Institute,
 Chennai, India. July, 2022.
- $4^th$ BRICS Mathematics Conference,
+
+- $4^th$ BRICS Mathematics Conference,
 IISER Tiruvananthapuram, Kerala. December 2021.
 
 - AIS School on advanced commutative algebra, IIT Kharagpur, India. December, 2019.
