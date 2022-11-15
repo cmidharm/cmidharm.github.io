@@ -4,8 +4,6 @@ I received my master's degree (MSc in Mathematics) from [Chennai Mathematical In
 
 My CV can be found [here](../CV.pdf).
 
-## Publications
-
 My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.org/a/veer_d_1.html)
 
 ### - Published/Accepted papers:
@@ -26,4 +24,3 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 3. Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings.
 
-## [Academic Activities](../Academic_activities)
