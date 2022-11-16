@@ -1,4 +1,4 @@
-### - Contact information:
+### Contact information:
 
 Chennai Mathematical Institute  
 SIPCOT IT Park,  
