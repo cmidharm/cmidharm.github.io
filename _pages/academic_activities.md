@@ -1,3 +1,4 @@
+
 ###  Research Talks
 
 -  On the h-polynomial and the rook polynomial of some polyominoes, [EMS Summer School on
