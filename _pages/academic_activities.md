@@ -1,4 +1,4 @@
-### -  Research Talks
+###  Research Talks
 
 -  On the h-polynomial and the rook polynomial of some polyominoes, [EMS Summer School on
 Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), Gebze Technical University, Istanbul, Turkey, August
