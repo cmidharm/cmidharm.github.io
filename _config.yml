@@ -23,7 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   #github_username: username
 minimal_mistakes_skin: air
 #search: true
-
+google_analytics: cmidharm
+  
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
