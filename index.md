@@ -9,5 +9,7 @@ I did my PhD in Mathematics from  [Chennai Mathematical Insitute](https://www.cm
 I have submitted my PhD thesis on the graded minimal free resolution of Hibi rings and Hilbert series of algebras associated to polyominoes.
 I received my master's degree (MSc in Mathematics) from [Chennai Mathematical Insitute](https://www.cmi.ac.in), Chennai, India.
 
+My mathematical interests broadly include Commutative Algebra and Combinatorics. I utilize the tools of combinatorics to study the fundamental structure of algebraic objects.
+
 My CV can be found [here](CV.pdf).
 
