@@ -1,7 +1,8 @@
 ### Contact information:
 
-Chennai Mathematical Institute  
-SIPCOT IT Park,  
-Siruseri, Tamilnadu, 603103. India.
+Indian Institute of Technology Gandhinagar
+Palaj, Gandhinagar
+Gujarat - 382055
+India.
 
-Email : dharm@cmi.ac.in 
+Email : dharm.v@iitgn.ac.in 
