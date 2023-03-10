@@ -1,6 +1,8 @@
 
 ###  Research Talks
 
+- On Cohen-Macaulay posets of dimension 2 and permutation graphs, Conference on Commutative Algebra and Algebraic Geometry, IIT Hyderabad, India. February 2023.
+
 -  On the h-polynomial and the rook polynomial of some polyominoes, [EMS Summer School on
 Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), Gebze Technical University, Istanbul, Turkey, August
 2022.
@@ -28,6 +30,8 @@ IISER Tiruvananthapuram, Kerala. December 2021.
 Chennai. March, 2017.
 
 ### - Participation in  Workshops/Conferences
+
+- Conference on Commutative Algebra and Algebraic Geometry, IIT Hyderabad, India. February 2023.
 
 - [EMS Summer School on Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), 
 Gebze Technical University, Istanbul, Turkey, August 2022.
