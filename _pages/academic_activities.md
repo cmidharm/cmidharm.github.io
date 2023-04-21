@@ -1,7 +1,11 @@
 
 ###  Research Talks
 
+- On Cohen-Macaulay posets of dimension 2 and permutation graphs, GANIT Seminar, IIT Gandhinagar, India. March 2023.
+
 - On Cohen-Macaulay posets of dimension 2 and permutation graphs, Conference on Commutative Algebra and Algebraic Geometry, IIT Hyderabad, India. February 2023.
+
+- Polyominoes and polyomino ideals, Graduate Seminar, IIT Gandhinagar, India. January 2023.
 
 -  On the h-polynomial and the rook polynomial of some polyominoes, [EMS Summer School on
 Combinatorial Commutative Algebra](https://scale.gtu.edu.tr/CCA.html), Gebze Technical University, Istanbul, Turkey, August
