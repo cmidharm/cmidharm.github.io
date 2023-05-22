@@ -7,7 +7,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
     To appear in J. Algebra Appl., 2023. 
 
 
-2. [The $'h'$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p36).
+2. [The $h$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p36).
 
     (joint work with [Manoj Kummini](https://www.cmi.ac.in/people/fac-profile.php?id=mkummini))
 
