@@ -68,7 +68,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
    
-#links:
+links:
      - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
