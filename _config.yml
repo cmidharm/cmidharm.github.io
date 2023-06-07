@@ -69,9 +69,9 @@ plugins:
   - jekyll-include-cache
    
 #links:
-  #   - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #    url: "https://"
+     - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
