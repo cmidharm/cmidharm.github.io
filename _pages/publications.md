@@ -6,7 +6,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     (joint work with Carmelo Cisto and Francesco Navarra)
 
-    J. Algebra, Volume 641, 1 March 2024, Pages 498-529.
+     J. Algebra, Volume 641, 1 March 2024, Pages 498-529.
 
 2. On the linearity of the syzygies of Hibi rings.
 
