@@ -1,6 +1,10 @@
 
 ###  Research Talks
 
+- Delivered two lectures on Grothendieck Quot Scheme and Dimension estimates, Graduate Seminar series on Moduli space of sheaves, IIT Gandhinagar, Gandhinagar. August-September, 2023.
+
+- On EL-shellable posets, Workshop on Cohen Macaulay simplicial complexes in graph theory, Chennai Mathematical Institute, Chennai, India. July, 2023.
+
 - On Cohen-Macaulay posets of dimension 2 and permutation graphs, GANIT Seminar, IIT Gandhinagar, India. March 2023.
 
 - On Cohen-Macaulay posets of dimension 2 and permutation graphs, Conference on Commutative Algebra and Algebraic Geometry, IIT Hyderabad, India. February 2023.
@@ -34,6 +38,12 @@ IISER Tiruvananthapuram, Kerala. December 2021.
 Chennai. March, 2017.
 
 ### - Participation in  Workshops/Conferences
+
+- Workshop on Cohen Macaulay simplicial complexes in graph theory, Chennai Mathematical Institute, Chennai, India. July, 2023.
+
+- Conference on Commutative Algebra and its interaction with Algebraic Geometry and Combinatorics, VIASM Hanoi, Vietnam. June 2023.
+
+- AIS School on Topics in Birational Geometry, Chennai Mathematical Institute, Chennai, India. May-June, 2023.
 
 - Conference on Commutative Algebra and Algebraic Geometry, IIT Hyderabad, India. February 2023.
 
