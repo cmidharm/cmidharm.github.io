@@ -27,7 +27,11 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 ### - Submitted papers:
 
-1. On Cohen-Macaulay posets of dimension two and permutation graphs
+1. Cohen-Macaulay permutation graphs
+
+    (joint work with P. V. Cheri, Deblina Dey, Akhil K and Nirmal Kotal)
+
+2. On Cohen-Macaulay posets of dimension two and permutation graphs
 
 
     (joint work with Rizwan Jahangir)
