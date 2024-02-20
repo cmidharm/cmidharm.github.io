@@ -74,7 +74,7 @@ links:
       #  url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en"
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
-    url: "https://twitter.com/"
+    url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en/"
   #  - label: "GitHub"
   #    icon: "fab fa-fw fa-github"
   #    url: "https://github.com/"
