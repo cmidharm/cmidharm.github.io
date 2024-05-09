@@ -3,7 +3,7 @@
 Chase Building, Room 113
 Dalhousie University
 6297 Castine Way
-Halifax, NS B3H 4R2
-Canada
+Halifax, NS, Canada
+B3H 4R2
 
 Email : dharm.v@iitgn.ac.in 
