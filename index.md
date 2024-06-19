@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I am currently an AARMS Post-Doctoral Fellow at the [Dalhousie University](https://www.dal.ca/), Halifax, Canada. 
+I am currently an [AARMS Post-Doctoral Fellow](https://aarms.math.ca/pdf/) at the [Dalhousie University](https://www.dal.ca/), Halifax, Canada. 
 My mentor is Professor [Sara Faridi](https://www.mathstat.dal.ca/~faridi/).
 Prior to this, I was a Post-Doctoral Fellow at the [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/), India. 
 
