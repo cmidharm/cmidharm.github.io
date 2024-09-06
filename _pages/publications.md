@@ -6,7 +6,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     (joint work with P. V. Cheri, Deblina Dey, Akhil K and Nirmal Kotal)
 
-    To appear in {\em Math. Scand.}, 2024.
+    To appear in Math. Scand., 2024.
 
 2. [Polyocollection ideals and primary decomposition of polyomino ideals.](https://www.sciencedirect.com/science/article/pii/S0021869323005884)
 
