@@ -6,7 +6,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     (joint work with P. V. Cheri, Deblina Dey, Akhil K and Nirmal Kotal)
 
-    To appear in Math. Scand., 2024.
+    MATH. SCAND. 130 (2024), 419–431.
 
 2. [Polyocollection ideals and primary decomposition of polyomino ideals.](https://www.sciencedirect.com/science/article/pii/S0021869323005884)
 
@@ -16,8 +16,8 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 3. On the linearity of the syzygies of Hibi rings.
 
-    To appear in J. Algebra Appl., 2023. 
 
+    J. Algebra Appl., Vol. 23, No. 12, 2450208 (2024).
 
 4. [The $h$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p36).
 
