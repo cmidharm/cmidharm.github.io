@@ -2,24 +2,28 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 ### - Published/Accepted papers:
 
-1. Cohen-Macaulay permutation graphs
+1. Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings
+
+    To appear in Indian j. pure appl. math., 2024.
+
+2. Cohen-Macaulay permutation graphs
 
     (joint work with P. V. Cheri, Deblina Dey, Akhil K and Nirmal Kotal)
 
     MATH. SCAND. 130 (2024), 419–431.
 
-2. [Polyocollection ideals and primary decomposition of polyomino ideals.](https://www.sciencedirect.com/science/article/pii/S0021869323005884)
+3. [Polyocollection ideals and primary decomposition of polyomino ideals.](https://www.sciencedirect.com/science/article/pii/S0021869323005884)
 
     (joint work with Carmelo Cisto and Francesco Navarra)
 
      J. Algebra, Volume 641, 1 March 2024, Pages 498-529, 2024.
 
-3. On the linearity of the syzygies of Hibi rings.
+4. On the linearity of the syzygies of Hibi rings.
 
 
     J. Algebra Appl., Vol. 23, No. 12, 2450208 (2024).
 
-4. [The $h$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p36).
+5. [The $h$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p36).
 
     (joint work with [Manoj Kummini](https://www.cmi.ac.in/people/fac-profile.php?id=mkummini))
 
