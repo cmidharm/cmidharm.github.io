@@ -1,6 +1,6 @@
 ### Contact information:
 
-Chase Building, Room 113 <br />
+Chase Building, Room 252 <br />
 Department of Mathematics & Statistics <br />
 Dalhousie University <br />
 6297 Castine Way <br />
