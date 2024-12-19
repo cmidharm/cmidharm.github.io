@@ -76,6 +76,8 @@ author:
   xing             :
   youtube          :
 
+  # Custom author fields follow
+  arxiv            : "veer_d_1"
 
 include:
   - _pages
