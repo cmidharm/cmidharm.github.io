@@ -10,7 +10,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     (joint work with P. V. Cheri, Deblina Dey, Akhil K and Nirmal Kotal)
 
-    MATH. SCAND. 130 (2024), 419–431.
+    Math. Scand. 130 (2024), 419–431.
 
 1. [Polyocollection ideals and primary decomposition of polyomino ideals.](https://www.sciencedirect.com/science/article/pii/S0021869323005884)
 
