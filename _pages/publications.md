@@ -2,11 +2,11 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 ### - Published/Accepted papers:
 
-1. Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings
+1. [Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings](https://link.springer.com/article/10.1007/s13226-024-00725-x)
 
     To appear in Indian j. pure appl. math., 2024.
 
-1. Cohen-Macaulay permutation graphs
+1. [Cohen-Macaulay permutation graphs](https://www.mscand.dk/article/view/149033)
 
     (joint work with P. V. Cheri, Deblina Dey, Akhil K and Nirmal Kotal)
 
@@ -18,7 +18,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
      J. Algebra, Volume 641, 1 March 2024, Pages 498-529, 2024.
 
-1. On the linearity of the syzygies of Hibi rings.
+1. [On the linearity of the syzygies of Hibi rings](https://www.worldscientific.com/doi/abs/10.1142/S0219498824502086?journalCode=jaa)
 
 
     J. Algebra Appl., Vol. 23, No. 12, 2450208 (2024).
