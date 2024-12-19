@@ -113,7 +113,7 @@ links:
   #  icon: "fas fa-fw fa-link"
   #  url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en"
   - label: "Google Scholar"
-    icon: "fab fa-fw fa-twitter-square"
+    icon: "ai ai-google-scholar"
     url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en/"
   #  - label: "GitHub"
   #    icon: "fab fa-fw fa-github"
