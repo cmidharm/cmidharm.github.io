@@ -49,8 +49,8 @@ remote_theme: mmistakes/minimal-mistakes
 author:
   name             : "Dharm Veer"
   avatar           : "dharm-webpage.jpeg"
-  bio              : "Data scientist interested in sports, politics and Simpsons references"
-  location         : "London via Cork"
+  bio              : "AARMS Postdoctoral Fellow"
+  location         :
   email            : "d.veer@dal.ca"
   uri              :
   bitbucket        :
