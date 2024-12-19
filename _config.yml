@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dharm Veer
-email: dharm@cmi.ac.in
+email: d.veer@dal.ca
 description: >- # this means to ignore newlines until "baseurl:"
   I am currently a postdoctoral fellow at the Indian Institute of Technology Gandhinagari, India.
   I did my PhD in Mathematics from Chennai Mathematical Insitute, India under the supervision of professor Manoj Kummini.
@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
   
-  #resume_google_scholar_url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=AIc3KfsAAAAJ" 
+  resume_google_scholar_url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=AIc3KfsAAAAJ" 
   #twitter_username: username
   #github_username: username
 minimal_mistakes_skin: air
