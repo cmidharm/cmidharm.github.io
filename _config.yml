@@ -71,7 +71,7 @@ plugins:
 links:
       # - label: "Website"
       #  icon: "fas fa-fw fa-link"
-      #  url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en"
+    url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en"
   - label: "Google Scholar"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en/"
