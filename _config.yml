@@ -69,6 +69,8 @@ plugins:
   - jekyll-include-cache
    
 links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
       # - label: "Website"
   #  icon: "fas fa-fw fa-link"
   #  url: "https://scholar.google.com/citations?user=AIc3KfsAAAAJ&hl=en"
