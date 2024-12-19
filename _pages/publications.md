@@ -38,12 +38,13 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 ### - Submitted papers:
 
 
-2. On Cohen-Macaulay posets of dimension two and permutation graphs
+1. On Cohen-Macaulay posets of dimension two and permutation graphs
 
 
     (joint work with Rizwan Jahangir)
 
 
 
-3. Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings.
+2. Polyominoes and Knutson ideals
 
+    (joint work with Mitra Koley and Nirmal Kotal)
