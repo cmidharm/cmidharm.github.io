@@ -78,6 +78,7 @@ author:
 
   # Custom author fields follow
   arxiv            : "veer_d_1"
+  google-scholar   : "AIc3KfsAAAAJ&hl"
 
 include:
   - _pages
