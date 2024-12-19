@@ -34,15 +34,48 @@ google_analytics: cmidharm
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-author:
-  name   : Dharm Veer
-  avatar : "dharm-webpage.jpeg"
+
+#author:
+#  name   : Dharm Veer
+#  avatar : "dharm-webpage.jpeg"
   #  bio    : "My awesome biography constrained to a sentence or two goes here."
  # Outputting
  # permalink: /:categories/:title/
   #paginate: 5 # amount of posts to show
   #paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site Author
+author:
+  name             : "Dharm Veer"
+  avatar           : "dharm-webpage.jpeg"
+  bio              : "Data scientist interested in sports, politics and Simpsons references"
+  location         : "London via Cork"
+  email            : "d.veer@dal.ca"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : cmidharm
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
 
 include:
   - _pages
