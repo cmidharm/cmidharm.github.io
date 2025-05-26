@@ -51,3 +51,10 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 1. Polyominoes and Knutson ideals
 
     (joint work with Mitra Koley and Nirmal Kotal)
+
+
+1. When are Morse resolutions polyhedral?
+
+    (joint work with Louis Bu, Sara Faridi, Iresha Madduwe Hewalage, Thiago Holleben, Hasan Mahmood, Kyle Wang and Scott Wesley)
+
+
