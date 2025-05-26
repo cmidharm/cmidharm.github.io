@@ -2,6 +2,13 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
 ### - Published/Accepted papers:
 
+1. On Cohen-Macaulay posets of dimension two and permutation graphs
+
+
+    (joint work with Rizwan Jahangir)
+
+    To appear in Bull. Malays. Math. Sci. Soc., 2025.
+
 1. [Green-Lazarsfeld property $N_p$ for Segre product of Hibi rings](https://link.springer.com/article/10.1007/s13226-024-00725-x)
 
     To appear in Indian j. pure appl. math., 2024.
@@ -38,10 +45,6 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 ### - Submitted papers:
 
 
-1. On Cohen-Macaulay posets of dimension two and permutation graphs
-
-
-    (joint work with Rizwan Jahangir)
 
 
 
