@@ -30,7 +30,7 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     J. Algebra Appl., Vol. 23, No. 12, 2450208 (2024).
 
-1. [The $h$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p36).
+1. [The $h$-polynomial and the rook polynomial of some polyominoes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p6).
 
     (joint work with [Manoj Kummini](https://www.cmi.ac.in/people/fac-profile.php?id=mkummini))
 
@@ -57,4 +57,8 @@ My papers are on the arXiv at [https://arxiv.org/a/veer_d_1.html](https://arxiv.
 
     (joint work with Louis Bu, Sara Faridi, Iresha Madduwe Hewalage, Thiago Holleben, Hasan Mahmood, Kyle Wang and Scott Wesley)
 
+
+1. $t$-Young complexes and squarefree powers of $t$-path ideals
+
+    (joint work with Francesco Navarra and Ayesha Asloob Qureshi)
 
