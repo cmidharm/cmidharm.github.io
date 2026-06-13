@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I am currently an Post-Doctoral Fellow at the [Sabancı University](https://www.sabanciuniv.edu/en), Istanbul, Turkey, where I work under the mentorship of Professor [Ayesha Asloob Qureshi](http://myweb.sabanciuniv.edu/aqureshi/).
+I am currently a Post-Doctoral Fellow at the [Sabancı University](https://www.sabanciuniv.edu/en), Istanbul, Turkey, where I work under the mentorship of Professor [Ayesha Asloob Qureshi](http://myweb.sabanciuniv.edu/aqureshi/).
 Prior to this, I was an [AARMS Post-Doctoral Fellow](https://aarms.math.ca/pdf/) at the [Dalhousie University](https://www.dal.ca/), Halifax, Canada, mentored by Professor [Sara Faridi](https://www.mathstat.dal.ca/~faridi/).
 Before that, I was a Post-Doctoral Fellow at the [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/), India. 
 
