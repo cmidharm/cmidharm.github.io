@@ -1,10 +1,7 @@
 ### Contact information:
 
-Chase Building, Room 252 <br />
-Department of Mathematics & Statistics <br />
-Dalhousie University <br />
-6297 Castine Way <br />
-Halifax, NS, Canada <br />
-B3H 4R2
+Sabancı Üniversitesi, <br />
+Orta Mahalle, 34956, Istanbul, <br />
+Turkey.
 
-Email : d.veer@dal.ca 
+Email : dveer.math1@gmail.com 
